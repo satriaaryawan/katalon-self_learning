@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>OTP page without any item on cart</description>
+   <name>TC_OTP-Page_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1d0f37e-895f-45c6-9a03-fab5dd33330d</testCaseGuid>
+</TestCaseEntity>

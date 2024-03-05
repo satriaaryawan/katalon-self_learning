@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Access login page FLIK Checkout without any item on cart</description>
+   <name>TC_Login-Page_1</name>
+   <tag>Login-Page</tag>
+   <comment></comment>
+   <testCaseGuid>b448c86f-dc9c-476c-9924-dcdba8ea0666</testCaseGuid>
+</TestCaseEntity>

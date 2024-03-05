@@ -4,4 +4,24 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Cart without item</description>
+      <initValue>'https://checkout.dev.useflik.com/'</initValue>
+      <name>Cart_Empty</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Cart with item</description>
+      <initValue>'https://checkout.dev.useflik.com/cart/17453191-ff4c-4d07-b686-73bcb670e176'</initValue>
+      <name>Cart_Platform</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Cart with item invoice</description>
+      <initValue>'https://checkout.dev.useflik.com/cart/41519a43-7301-4763-b1f8-6baf3874fe53'</initValue>
+      <name>Cart_Invoice</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Existing Shopper</description>
+      <initValue>'+62812345671001'</initValue>
+      <name>PhoneNumber_1</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
